@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="zh"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><meta><title>Flex布局解析 - 阿东zza</title><link rel="manifest" href="/manifest.json"><meta name="application-name" content="阿东zza"><meta name="msapplication-TileImage" content="/img/favicon.svg"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="阿东zza"><meta name="apple-mobile-web-app-status-bar-style" content="default"><meta name="description" content="Flex布局是什么Flex 是 Flexible Box 的缩写，意为”弹性布局”，用来为盒状模型提供最大的灵活性。"><meta property="og:type" content="blog"><meta property="og:title" content="(&gt;_&lt;)"><meta property="og:url" content="https://adyoow.github.io/flex-layout/"><meta property="og:site_name" content="阿东zza"><meta property="og:description" content="Flex布局是什么Flex 是 Flexible Box 的缩写，意为”弹性布局”，用来为盒状模型提供最大的灵活性。"><meta property="og:locale" content="zh_CN"><meta property="og:image" content="https://adyoow.github.io/flex-layout/o_200207025659bg2015071004.png"><meta property="og:image" content="https://adyoow.github.io/flex-layout/o_200207025707bg2015071005.png"><meta property="og:image" content="https://adyoow.github.io/flex-layout/o_200207025807bg2015071006.png"><meta property="og:image" content="https://adyoow.github.io/flex-layout/o_200207025812bg2015071007.png"><meta property="og:image" content="https://adyoow.github.io/flex-layout/o_200207025819bg2015071008.jpeg"><meta property="og:image" content="https://adyoow.github.io/flex-layout/o_200207025823bg2015071009.jpeg"><meta property="og:image" content="https://adyoow.github.io/flex-layout/o_200207025828bg2015071010%20.png"><meta property="og:image" content="https://adyoow.github.io/flex-layout/o_200207025833bg2015071011.png"><meta property="og:image" content="https://adyoow.github.io/flex-layout/o_200207025837bg2015071012.png"><meta property="og:image" content="https://adyoow.github.io/flex-layout/o_200207025840bg2015071013.png"><meta property="og:image" content="https://adyoow.github.io/flex-layout/o_200207025844bg2015071014.png"><meta property="og:image" content="https://adyoow.github.io/flex-layout/o_200207025848bg2015071015.jpeg"><meta property="og:image" content="https://adyoow.github.io/flex-layout/o_200207025852bg2015071016.png"><meta property="article:published_time" content="2021-12-17T13:06:22.000Z"><meta property="article:modified_time" content="2021-12-17T13:21:00.295Z"><meta property="article:author" content="adyoow"><meta property="article:tag" content="CSS"><meta property="article:tag" content="Flex"><meta property="twitter:card" content="summary"><meta property="twitter:image" content="o_200207025659bg2015071004.png"><script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://adyoow.github.io/flex-layout/"},"headline":"Flex布局解析","image":["https://adyoow.github.io/flex-layout/o_200207025659bg2015071004.png","https://adyoow.github.io/flex-layout/o_200207025707bg2015071005.png","https://adyoow.github.io/flex-layout/o_200207025807bg2015071006.png","https://adyoow.github.io/flex-layout/o_200207025812bg2015071007.png","https://adyoow.github.io/flex-layout/o_200207025828bg2015071010%20.png","https://adyoow.github.io/flex-layout/o_200207025833bg2015071011.png","https://adyoow.github.io/flex-layout/o_200207025837bg2015071012.png","https://adyoow.github.io/flex-layout/o_200207025840bg2015071013.png","https://adyoow.github.io/flex-layout/o_200207025844bg2015071014.png","https://adyoow.github.io/flex-layout/o_200207025852bg2015071016.png"],"datePublished":"2021-12-17T13:06:22.000Z","dateModified":"2021-12-17T13:21:00.295Z","author":{"@type":"Person","name":"adyoow"},"publisher":{"@type":"Organization","name":"阿东zza","logo":{"@type":"ImageObject","url":"https://adyoow.github.io/img/logo.svg"}},"description":"Flex布局是什么Flex 是 Flexible Box 的缩写，意为”弹性布局”，用来为盒状模型提供最大的灵活性。"}</script><link rel="canonical" href="https://adyoow.github.io/flex-layout/"><link rel="icon" href="/img/favicon.svg"><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/highlight.js@9.12.0/styles/atom-one-light.css"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;600&amp;family=Source+Code+Pro"><link rel="stylesheet" href="/css/default.css"><style>body>.footer,body>.navbar,body>.section{opacity:0}</style><!--!--><!--!--><!--!--><!--!--><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/cookieconsent@3.1.1/build/cookieconsent.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery@1.6.8/dist/css/lightgallery.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/justifiedGallery@3.7.0/dist/css/justifiedGallery.min.css"><!--!--><!--!--><script src="https://cdn.jsdelivr.net/npm/pace-js@1.0.2/pace.min.js"></script><!--!--><!--!--><meta name="generator" content="Hexo 5.4.0"></head><body class="is-2-column"><nav class="navbar navbar-main"><div class="container"><div class="navbar-brand justify-content-center"><a class="navbar-item navbar-logo" href="/"><img src="/img/logo.svg" alt="阿东zza" height="28"></a></div><div class="navbar-menu"><div class="navbar-start"><a class="navbar-item" href="/">首页</a><a class="navbar-item" href="/archives">归档</a><a class="navbar-item" href="/categories">类别</a><a class="navbar-item" href="/tags">标签</a><a class="navbar-item" href="/about">关于我</a></div><div class="navbar-end"><a class="navbar-item is-hidden-tablet catalogue" title="目录" href="javascript:;"><i class="fas fa-list-ul"></i></a><a class="navbar-item search" title="搜索" href="javascript:;"><i class="fas fa-search"></i></a></div></div></div></nav><section class="section"><div class="container"><div class="columns"><div class="column order-2 column-main is-8-tablet is-8-desktop is-8-widescreen"><div class="card"><article class="card-content article" role="article"><div class="article-meta is-size-7 is-uppercase level is-mobile"><div class="level-left"><span class="level-item"><time dateTime="2021-12-17T13:06:22.000Z" title="2021/12/17 下午9:06:22">2021-12-17</time>发表</span><span class="level-item"><time dateTime="2021-12-17T13:21:00.295Z" title="2021/12/17 下午9:21:00">2021-12-17</time>更新</span><span class="level-item"><a class="link-muted" href="/categories/Front-end-Study/">Front-end Study</a></span><span class="level-item">12 分钟读完 (大约1725个字)</span></div></div><h1 class="title is-3 is-size-4-mobile">Flex布局解析</h1><div class="content"><h2 id="Flex布局是什么"><a href="#Flex布局是什么" class="headerlink" title="Flex布局是什么"></a>Flex布局是什么</h2><p>Flex 是 Flexible Box 的缩写，意为”弹性布局”，用来为盒状模型提供最大的灵活性。</p>
+<span id="more"></span>
+
+<p>任何一个容器都可以指定为Flex布局</p>
+<pre><code>.box&#123;
+    display: flex;
+&#125;
+</code></pre>
+<p>行内元素也可以使用Flex布局</p>
+<pre><code>.box&#123;
+    display:inline-flex
+&#125;
+</code></pre>
+<p>Webkit内核的浏览器，必须加上-webkit前缀</p>
+<pre><code>.box&#123;
+    display:-webkit-flex;/* Safari */
+    display:flex;
+&#125;
+</code></pre>
+<p><strong>注意⚠️</strong>，设为Flex布局之后，子元素的<code>float</code>、<code>clear</code>和<code>vertical-align</code>属性将失效</p>
+<h2 id="基本概念"><a href="#基本概念" class="headerlink" title="基本概念"></a>基本概念</h2><p>采用 Flex 布局的元素，称为 Flex 容器（flex container），简称”容器”。它的所有子元素自动成为容器成员，称为 Flex 项目（flex item），简称”项目”。</p>
+<p><img src="o_200207025659bg2015071004.png"></p>
+<ul>
+<li>容器默认存在两根轴：水平的主轴（main axis）和垂直的交叉轴（cross axis）<ul>
+<li>项目默认沿主轴排列；</li>
+<li>主轴的开始位置（与边框的交叉点）叫做<code>main start</code>，结束位置叫做<code>main end</code>；</li>
+<li>交叉轴的开始位置叫做<code>cross start</code>，结束位置叫做<code>cross end</code>；</li>
+<li>单个项目占据的主轴空间叫做<code>main size</code>，占据的交叉轴空间叫做<code>cross size</code>。</li>
+</ul>
+</li>
+</ul>
+<h2 id="容器的属性"><a href="#容器的属性" class="headerlink" title="容器的属性"></a>容器的属性</h2><p>以下6个属性设置在容器上</p>
+<p><code>flex-direction</code>、<code>flex-wrap</code>、<code>flex-flow</code>、<code>justify-content</code>、<code>align-items</code>、<code>align-content</code></p>
+<h3 id="flex-direction属性"><a href="#flex-direction属性" class="headerlink" title="flex-direction属性"></a>flex-direction属性</h3><p><code>flex-direction</code>属性决定主轴的方向（即项目的排列方向）。</p>
+<pre><code>.box &#123;
+  flex-direction: row | row-reverse | column | column-reverse;
+&#125;
+</code></pre>
+<p><img src="o_200207025707bg2015071005.png"></p>
+<p>它可能有4个值</p>
+<ul>
+<li>row（默认值）：主轴为水平方向，起点在左端。</li>
+<li>row-reverse：主轴为水平方向，起点在右端。</li>
+<li>column：主轴为垂直方向，起点在上沿。</li>
+<li>column-reverse：主轴为垂直方向，起点在下沿。</li>
+</ul>
+<h3 id="flex-wrap属性"><a href="#flex-wrap属性" class="headerlink" title="flex-wrap属性"></a>flex-wrap属性</h3><p>默认情况下，项目都排在一条线(又称“轴线”)上。<code>flex-wrap</code>属性定义，如果一条轴线排不下，如何换行</p>
+<p><img src="o_200207025807bg2015071006.png"></p>
+<pre><code>.box&#123;
+  flex-wrap: nowrap | wrap | wrap-reverse;
+&#125;
+</code></pre>
+<p>它可能取三个值</p>
+<ul>
+<li><p>nowrap（默认）：不换行。<br><img src="o_200207025812bg2015071007.png"></p>
+</li>
+<li><p>wrap：换行，第一行在上方。<br><img src="o_200207025819bg2015071008.jpeg"></p>
+</li>
+<li><p>wrap-reverse：换行，第一行在下方。<br><img src="o_200207025823bg2015071009.jpeg"></p>
+</li>
+</ul>
+<h3 id="flex-flow属性"><a href="#flex-flow属性" class="headerlink" title="flex-flow属性"></a>flex-flow属性</h3><p><code>flex-flow</code>属性是<code>flex-direction</code>属性和<code>flex-wrap</code>属性的简写形式，默认值为<code>row nowrap</code>。</p>
+<pre><code>.box &#123;
+  flex-flow: &lt;flex-direction&gt; || &lt;flex-wrap&gt;;
+&#125;
+</code></pre>
+<h3 id="justify-content属性"><a href="#justify-content属性" class="headerlink" title="justify-content属性"></a>justify-content属性</h3><p>justify-content属性定义了项目在主轴上的对齐方式。</p>
+<pre><code>.box &#123;
+  justify-content: flex-start | flex-end | center | space-between | space-around;
+&#125;
+</code></pre>
+<p><img src="o_200207025828bg2015071010%20.png"></p>
+<p>它可能取5个值，具体对齐方式与轴的方向有关。下面假设主轴为从左到右。</p>
+<ul>
+<li>flex-start（默认值）：左对齐</li>
+<li>flex-end：右对齐</li>
+<li>center： 居中</li>
+<li>space-between：两端对齐，项目之间的间隔都相等。</li>
+<li>space-around：每个项目两侧的间隔相等。所以，项目之间的间隔比项目与边框的间隔大一倍。</li>
+</ul>
+<h3 id="align-items属性"><a href="#align-items属性" class="headerlink" title="align-items属性"></a>align-items属性</h3><p><code>align-items</code>属性定义项目在交叉轴上如何对齐。</p>
+<pre><code>.box &#123;
+  align-items: flex-start | flex-end | center | baseline | stretch;
+&#125;
+</code></pre>
+<p><img src="o_200207025833bg2015071011.png"></p>
+<p>它可能取5个值，具体的对齐方式与交叉轴的方向有关，下面假设交叉轴从上到下。</p>
+<ul>
+<li>flex-start：交叉轴的起点对齐。</li>
+<li>flex-end：交叉轴的终点对齐。</li>
+<li>center：交叉轴的中点对齐。</li>
+<li>baseline: 项目的第一行文字的基线对齐。</li>
+<li>stretch（默认值）：如果项目未设置高度或设为auto，将占满整个容器的高度。</li>
+</ul>
+<h3 id="align-content属性"><a href="#align-content属性" class="headerlink" title="align-content属性"></a>align-content属性</h3><p><code>align-content</code>属性定义了多根轴线的对齐方式。如果项目只有一根轴线，该属性不起作用。</p>
+<pre><code>.box &#123;
+  align-content: flex-start | flex-end | center | space-between | space-around | stretch;
+&#125;
+</code></pre>
+<p><img src="o_200207025837bg2015071012.png"></p>
+<p>它可能取6个值。</p>
+<ul>
+<li>lex-start：与交叉轴的起点对齐。</li>
+<li>flex-end：与交叉轴的终点对齐。</li>
+<li>center：与交叉轴的中点对齐。</li>
+<li>space-between：与交叉轴两端对齐，轴线之间的间隔平均分布。</li>
+<li>space-around：每根轴线两侧的间隔都相等。所以，轴线之间的间隔比轴线与边框的间隔大一倍。</li>
+<li>stretch（默认值）：轴线占满整个交叉轴。</li>
+</ul>
+<h2 id="项目的属性"><a href="#项目的属性" class="headerlink" title="项目的属性"></a>项目的属性</h2><p>以下6个属性设置在项目上</p>
+<p><code>order</code>、<code>flex-grow</code>、<code>flex-shrink</code>、<code>flex-basis</code>、<code>flex</code>、<code>align-self</code></p>
+<h3 id="order属性"><a href="#order属性" class="headerlink" title="order属性"></a>order属性</h3><p>order属性定义项目的排列顺序。数值越小，排列越靠前，默认为0。</p>
+<pre><code>.item &#123;
+  order: &lt;integer&gt;;
+&#125;
+</code></pre>
+<p><img src="o_200207025840bg2015071013.png"></p>
+<h3 id="flex-grow属性"><a href="#flex-grow属性" class="headerlink" title="flex-grow属性"></a>flex-grow属性</h3><p>flex-grow属性定义项目的放大比例，默认为0，即如果存在剩余空间，也不放大。</p>
+<pre><code>.item &#123;
+  flex-grow: &lt;number&gt;; /* default 0 */
+&#125;
+</code></pre>
+<p><img src="o_200207025844bg2015071014.png"><br>如果所有项目的<code>flex-grow</code>属性都为1，则它们将等分剩余空间（如果有的话)。如果一个项目的<code>flex-grow</code>属性为2，其他项目都为1，则前者占据的剩余空间将比其他项多一倍。</p>
+<h3 id="flex-shrink属性"><a href="#flex-shrink属性" class="headerlink" title="flex-shrink属性"></a>flex-shrink属性</h3><p>flex-shrink属性定义了项目的缩小比例，默认为1，即如果空间不足，该项目将缩小。</p>
+<pre><code>.item &#123;
+  flex-shrink: &lt;number&gt;; /* default 1 */
+&#125;
+</code></pre>
+<p><img src="o_200207025848bg2015071015.jpeg"><br>如果所有项目的<code>flex-shrink</code>属性都为1，当空间不足时，都将等比例缩小。如果一个项目的<code>flex-shrink</code>属性为0，其他项目都为1，则空间不足时，前者不缩小。</p>
+<p>负值对该属性无效。</p>
+<h3 id="flex-basis属性"><a href="#flex-basis属性" class="headerlink" title="flex-basis属性"></a>flex-basis属性</h3><p><code>flex-basis</code>属性定义了在分配多余空间之前，项目占据的主轴空间（main size）。浏览器根据这个属性，计算主轴是否有多余空间。它的默认值为<code>auto</code>，即项目的本来大小。</p>
+<pre><code>.item &#123;
+  flex-basis: &lt;length&gt; | auto; /* default auto */
+&#125;
+</code></pre>
+<p>它可以设为跟<code>width</code>或<code>height</code>属性一样的值（比如350px），则项目将占据固定空间。</p>
+<h3 id="flex属性"><a href="#flex属性" class="headerlink" title="flex属性"></a>flex属性</h3><p><code>flex</code>属性是<code>flex-grow</code>, <code>flex-shrink</code>和<code>flex-basis</code>的简写，默认值为<code>flex : 0 1 auto</code>。后两个属性可选。</p>
+<pre><code>.item &#123;
+  flex: none | [ &lt;&#39;flex-grow&#39;&gt; &lt;&#39;flex-shrink&#39;&gt;? || &lt;&#39;flex-basis&#39;&gt; ]
+&#125;
+</code></pre>
+<p>该属性有两个快捷值：auto (1 1 auto) 和 none (0 0 auto)。</p>
+<p>建议优先使用这个属性，而不是单独写三个分离的属性，因为浏览器会推算相关值。</p>
+<h3 id="align-self属性"><a href="#align-self属性" class="headerlink" title="align-self属性"></a>align-self属性</h3><p><code>align-self</code>属性允许单个项目有与其他项目不一样的对齐方式，可覆盖<code>align-items</code>属性。默认值为<code>auto</code>，表示继承父元素的<code>align-items</code>属性，如果没有父元素，则等同于<code>stretch</code>。</p>
+<pre><code>.item &#123;
+  align-self: auto | flex-start | flex-end | center | baseline | stretch;
+&#125;
+</code></pre>
+<p><img src="o_200207025852bg2015071016.png"></p>
+<p>该属性可能取6个值，除了<code>auto</code>，其他都与<code>align-items</code>属性完全一致。</p>
+<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
+<p><a target="_blank" rel="noopener" href="http://caibaojian.com/flexbox-basic-tourial.html">Flex布局入门</a></p>
+<p><a target="_blank" rel="noopener" href="http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html">Flex 布局教程：语法篇</a></p>
+</blockquote>
+</div><div class="article-tags is-size-7 mb-4"><span class="mr-2">#</span><a class="link-muted mr-2" rel="tag" href="/tags/CSS/">CSS</a><a class="link-muted mr-2" rel="tag" href="/tags/Flex/">Flex</a></div><!--!--></article></div><!--!--><nav class="post-navigation mt-4 level is-mobile"><div class="level-end"><a class="article-nav-next level level-item link-muted" href="/http-referrer/"><span class="level-item">防盗链？</span><i class="level-item fas fa-chevron-right"></i></a></div></nav><!--!--></div><div class="column column-left is-4-tablet is-4-desktop is-4-widescreen  order-1 is-sticky"><div class="card widget" id="toc" data-type="toc"><div class="card-content"><div class="menu"><h3 class="menu-label">目录</h3><ul class="menu-list"><li><a class="level is-mobile" href="#Flex布局是什么"><span class="level-left"><span class="level-item">1</span><span class="level-item">Flex布局是什么</span></span></a></li><li><a class="level is-mobile" href="#基本概念"><span class="level-left"><span class="level-item">2</span><span class="level-item">基本概念</span></span></a></li><li><a class="level is-mobile" href="#容器的属性"><span class="level-left"><span class="level-item">3</span><span class="level-item">容器的属性</span></span></a><ul class="menu-list"><li><a class="level is-mobile" href="#flex-direction属性"><span class="level-left"><span class="level-item">3.1</span><span class="level-item">flex-direction属性</span></span></a></li><li><a class="level is-mobile" href="#flex-wrap属性"><span class="level-left"><span class="level-item">3.2</span><span class="level-item">flex-wrap属性</span></span></a></li><li><a class="level is-mobile" href="#flex-flow属性"><span class="level-left"><span class="level-item">3.3</span><span class="level-item">flex-flow属性</span></span></a></li><li><a class="level is-mobile" href="#justify-content属性"><span class="level-left"><span class="level-item">3.4</span><span class="level-item">justify-content属性</span></span></a></li><li><a class="level is-mobile" href="#align-items属性"><span class="level-left"><span class="level-item">3.5</span><span class="level-item">align-items属性</span></span></a></li><li><a class="level is-mobile" href="#align-content属性"><span class="level-left"><span class="level-item">3.6</span><span class="level-item">align-content属性</span></span></a></li></ul></li><li><a class="level is-mobile" href="#项目的属性"><span class="level-left"><span class="level-item">4</span><span class="level-item">项目的属性</span></span></a><ul class="menu-list"><li><a class="level is-mobile" href="#order属性"><span class="level-left"><span class="level-item">4.1</span><span class="level-item">order属性</span></span></a></li><li><a class="level is-mobile" href="#flex-grow属性"><span class="level-left"><span class="level-item">4.2</span><span class="level-item">flex-grow属性</span></span></a></li><li><a class="level is-mobile" href="#flex-shrink属性"><span class="level-left"><span class="level-item">4.3</span><span class="level-item">flex-shrink属性</span></span></a></li><li><a class="level is-mobile" href="#flex-basis属性"><span class="level-left"><span class="level-item">4.4</span><span class="level-item">flex-basis属性</span></span></a></li><li><a class="level is-mobile" href="#flex属性"><span class="level-left"><span class="level-item">4.5</span><span class="level-item">flex属性</span></span></a></li><li><a class="level is-mobile" href="#align-self属性"><span class="level-left"><span class="level-item">4.6</span><span class="level-item">align-self属性</span></span></a></li></ul></li><li><a class="level is-mobile" href="#参考资料"><span class="level-left"><span class="level-item">5</span><span class="level-item">参考资料</span></span></a></li></ul></div></div><style>#toc .menu-list > li > a.is-active + .menu-list { display: block; }#toc .menu-list > li > a + .menu-list { display: none; }</style><script src="/js/toc.js" defer></script></div><div class="card widget" data-type="tags"><div class="card-content"><div class="menu"><h3 class="menu-label">标签</h3><div class="field is-grouped is-grouped-multiline"><div class="control"><a class="tags has-addons" href="/tags/Axios/"><span class="tag">Axios</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/C/"><span class="tag">C</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/C/"><span class="tag">C++</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/CSS/"><span class="tag">CSS</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Cross-domin/"><span class="tag">Cross-domin</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Data-Structure/"><span class="tag">Data Structure</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Docker/"><span class="tag">Docker</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Electron/"><span class="tag">Electron</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Express/"><span class="tag">Express</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/FTP/"><span class="tag">FTP</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Flex/"><span class="tag">Flex</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Hexo/"><span class="tag">Hexo</span><span class="tag">4</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Https/"><span class="tag">Https</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Linux/"><span class="tag">Linux</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Markdown/"><span class="tag">Markdown</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/NPM/"><span class="tag">NPM</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/NVM/"><span class="tag">NVM</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Network/"><span class="tag">Network</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Node/"><span class="tag">Node</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Others/"><span class="tag">Others</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/SCP/"><span class="tag">SCP</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/SFTP/"><span class="tag">SFTP</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/SSH/"><span class="tag">SSH</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Sublime/"><span class="tag">Sublime</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Uni-app/"><span class="tag">Uni-app</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Vue/"><span class="tag">Vue</span><span class="tag">4</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Win10/"><span class="tag">Win10</span><span class="tag">1</span></a></div></div></div></div></div></div><!--!--></div></div></section><footer class="footer"><div class="container"><div class="level"><div class="level-start"><a class="footer-logo is-block mb-2" href="/"><img src="/img/logo.svg" alt="阿东zza" height="28"></a><p class="is-size-7"><span>&copy; 2023 adyoow</span>  Powered by <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a> &amp; <a href="https://github.com/ppoffice/hexo-theme-icarus" target="_blank" rel="noopener">Icarus</a></p></div><div class="level-end"></div></div></div></footer><script src="https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/moment@2.22.2/min/moment-with-locales.min.js"></script><script src="https://cdn.jsdelivr.net/npm/clipboard@2.0.4/dist/clipboard.min.js" defer></script><script>moment.locale("zh-CN");</script><script>var IcarusThemeSettings = {
+            article: {
+                highlight: {
+                    clipboard: true,
+                    fold: 'unfolded'
+                }
+            }
+        };</script><script src="/js/column.js"></script><script src="/js/animation.js"></script><a id="back-to-top" title="回到顶端" href="javascript:;"><i class="fas fa-chevron-up"></i></a><script src="/js/back_to_top.js" defer></script><!--!--><!--!--><!--!--><script src="https://cdn.jsdelivr.net/npm/cookieconsent@3.1.1/build/cookieconsent.min.js" defer></script><script>window.addEventListener("load", () => {
+      window.cookieconsent.initialise({
+        type: "info",
+        theme: "edgeless",
+        static: false,
+        position: "bottom-left",
+        content: {
+          message: "此网站使用Cookie来改善您的体验。",
+          dismiss: "知道了！",
+          allow: "允许使用Cookie",
+          deny: "拒绝",
+          link: "了解更多",
+          policy: "Cookie政策",
+          href: "https://www.cookiesandyou.com/",
+        },
+        palette: {
+          popup: {
+            background: "#edeff5",
+            text: "#838391"
+          },
+          button: {
+            background: "#4b81e8"
+          },
+        },
+      });
+    });</script><script src="https://cdn.jsdelivr.net/npm/lightgallery@1.6.8/dist/js/lightgallery.min.js" defer></script><script src="https://cdn.jsdelivr.net/npm/justifiedGallery@3.7.0/dist/js/jquery.justifiedGallery.min.js" defer></script><script>window.addEventListener("load", () => {
+            if (typeof $.fn.lightGallery === 'function') {
+                $('.article').lightGallery({ selector: '.gallery-item' });
+            }
+            if (typeof $.fn.justifiedGallery === 'function') {
+                if ($('.justified-gallery > p > .gallery-item').length) {
+                    $('.justified-gallery > p > .gallery-item').unwrap();
+                }
+                $('.justified-gallery').justifiedGallery();
+            }
+        });</script><!--!--><!--!--><!--!--><!--!--><!--!--><script src="/js/main.js" defer></script><div class="searchbox"><div class="searchbox-container"><div class="searchbox-header"><div class="searchbox-input-container"><input class="searchbox-input" type="text" placeholder="想要查找什么..."></div><a class="searchbox-close" href="javascript:;">×</a></div><div class="searchbox-body"></div></div></div><script src="/js/insight.js" defer></script><script>document.addEventListener('DOMContentLoaded', function () {
+            loadInsight({"contentUrl":"/content.json"}, {"hint":"想要查找什么...","untitled":"(无标题)","posts":"文章","pages":"页面","categories":"分类","tags":"标签"});
+        });</script></body></html>

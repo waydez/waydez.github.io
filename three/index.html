@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="zh"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><meta><title>FTP、SFTP、SCP的区别 - 阿东zza</title><link rel="manifest" href="/manifest.json"><meta name="application-name" content="阿东zza"><meta name="msapplication-TileImage" content="/img/favicon.svg"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="阿东zza"><meta name="apple-mobile-web-app-status-bar-style" content="default"><meta name="description" content="(^_^)"><meta property="og:type" content="blog"><meta property="og:title" content="(&gt;_&lt;)"><meta property="og:url" content="https://adyoow.github.io/three/"><meta property="og:site_name" content="阿东zza"><meta property="og:description" content="(^_^)"><meta property="og:locale" content="zh_CN"><meta property="og:image" content="https://adyoow.github.io/img/og_image.png"><meta property="article:published_time" content="2020-02-28T13:03:58.000Z"><meta property="article:modified_time" content="2021-11-28T02:42:46.312Z"><meta property="article:author" content="adyoow"><meta property="article:tag" content="FTP"><meta property="article:tag" content="SFTP"><meta property="article:tag" content="SCP"><meta property="twitter:card" content="summary"><meta property="twitter:image" content="/img/og_image.png"><script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://adyoow.github.io/three/"},"headline":"FTP、SFTP、SCP的区别","image":["https://adyoow.github.io/img/og_image.png"],"datePublished":"2020-02-28T13:03:58.000Z","dateModified":"2021-11-28T02:42:46.312Z","author":{"@type":"Person","name":"adyoow"},"publisher":{"@type":"Organization","name":"阿东zza","logo":{"@type":"ImageObject","url":"https://adyoow.github.io/img/logo.svg"}},"description":"(^_^)"}</script><link rel="canonical" href="https://adyoow.github.io/three/"><link rel="icon" href="/img/favicon.svg"><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/highlight.js@9.12.0/styles/atom-one-light.css"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;600&amp;family=Source+Code+Pro"><link rel="stylesheet" href="/css/default.css"><style>body>.footer,body>.navbar,body>.section{opacity:0}</style><!--!--><!--!--><!--!--><!--!--><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/cookieconsent@3.1.1/build/cookieconsent.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery@1.6.8/dist/css/lightgallery.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/justifiedGallery@3.7.0/dist/css/justifiedGallery.min.css"><!--!--><!--!--><script src="https://cdn.jsdelivr.net/npm/pace-js@1.0.2/pace.min.js"></script><!--!--><!--!--><meta name="generator" content="Hexo 5.4.0"></head><body class="is-2-column"><nav class="navbar navbar-main"><div class="container"><div class="navbar-brand justify-content-center"><a class="navbar-item navbar-logo" href="/"><img src="/img/logo.svg" alt="阿东zza" height="28"></a></div><div class="navbar-menu"><div class="navbar-start"><a class="navbar-item" href="/">首页</a><a class="navbar-item" href="/archives">归档</a><a class="navbar-item" href="/categories">类别</a><a class="navbar-item" href="/tags">标签</a><a class="navbar-item" href="/about">关于我</a></div><div class="navbar-end"><a class="navbar-item is-hidden-tablet catalogue" title="目录" href="javascript:;"><i class="fas fa-list-ul"></i></a><a class="navbar-item search" title="搜索" href="javascript:;"><i class="fas fa-search"></i></a></div></div></div></nav><section class="section"><div class="container"><div class="columns"><div class="column order-2 column-main is-8-tablet is-8-desktop is-8-widescreen"><div class="card"><article class="card-content article" role="article"><div class="article-meta is-size-7 is-uppercase level is-mobile"><div class="level-left"><span class="level-item"><time dateTime="2020-02-28T13:03:58.000Z" title="2020/2/28 下午9:03:58">2020-02-28</time>发表</span><span class="level-item"><time dateTime="2021-11-28T02:42:46.312Z" title="2021/11/28 上午10:42:46">2021-11-28</time>更新</span><span class="level-item"><a class="link-muted" href="/categories/Study-Share/">Study Share</a></span><span class="level-item">8 分钟读完 (大约1208个字)</span></div></div><h1 class="title is-3 is-size-4-mobile">FTP、SFTP、SCP的区别</h1><div class="content"><h1 id="它们是什么？"><a href="#它们是什么？" class="headerlink" title="它们是什么？"></a>它们是什么？</h1><h2 id="FTP"><a href="#FTP" class="headerlink" title="FTP"></a>FTP</h2><blockquote>
+<p>是TCP/IP网络上两台计算机传送文件的协议，FTP是在TCP/IP网络和INTERNET上最早使用的协议之一，它属于网络协议组的应用层。FTP客户机可以给服务器发出命令来下载文件，上载文件，创建或改变服务器上的目录。相比于HTTP，FTP协议要复杂得多。复杂的原因，是因为FTP协议要用到两个TCP连接，一个是命令链路，用来在FTP客户端与服务器之间传递命令；另一个是数据链路，用来上传或下载数据。FTP是基于TCP协议的，因此iptables防火墙设置中只需要放开指定端口（21 + PASV端口范围）的TCP协议即可。 </p>
+</blockquote>
+<blockquote>
+<p>FTP工作模式：</p>
+<blockquote>
+<p>PORT（主动）方式的连接过程是：客户端向服务器的FTP端口（默认是21）发送连接请求，服务器接受连接，建立一条命令链路。当需要传送数据时，客户端在命令链路上用PORT命令告诉服务器：“我打开了一个1024+的随机端口，你过来连接我”。于是服务器从20端口向客户端的1024+随机端口发送连接请求，建立一条数据链路来传送数据。<br>PASV（Passive被动）方式的连接过程是：客户端向服务器的FTP端口（默认是21）发送连接请求，服务器接受连接，建立一条命令链路。当需要传送数据时，服务器在命令链路上用PASV命令告诉客户端：“我打开了一个1024+的随机端口，你过来连接我”。于是客户端向服务器的指定端口发送连接请求，建立一条数据链路来传送数据。<br>PORT方式，服务器会主动连接客户端的指定端口，那么如果客户端通过代理服务器链接到internet上的网络的话，服务器端可能会连接不到客户端本机指定的端口，或者被客户端、代理服务器防火墙阻塞了连接，导致连接失败。PASV方式，服务器端防火墙除了要放开21端口外，还要放开PASV配置指定的端口范围。</p>
+</blockquote>
+</blockquote>
+<h2 id="SFTP"><a href="#SFTP" class="headerlink" title="SFTP"></a>SFTP</h2><blockquote>
+<p>安全文件传送协议。可以为传输文件提供一种安全的加密方法。SFTP与 FTP有着几乎一样的语法和功能。SFTP为SSH的一部份，是一种传输文件到服务器的安全方式。在SSH软件包中，已经包含了一个叫作SFTP(Secure File Transfer Protocol)的安全文件传输子系统，SFTP本身没有单独的守护进程，它必须使用sshd守护进程（端口号默认是22）来完成相应的连接操作，所以从某种意义上来说，SFTP并不像一个服务器程序，而更像是一个客户端程序。SFTP同样是使用加密传输认证信息和传输的数据，所以，使用SFTP是非常安全的。但是，由于这种传输方式使用了加密/解密技术，所以传输效率比普通的FTP要低得多，如果您对网络安全性要求更高时，可以使用SFTP代替FTP。</p>
+</blockquote>
+<pre><code>登陆远程主机：  
+sftp user@host  
+针对本机的命令都加上l:  
+lcd，lpwd  
+将本机文件上传到远程：  
+put filename.txt [some/directory]  
+将当前文件夹下的文件上传到远程：  
+mput *.* // multiple  
+下载远程文件到本地:  
+get filename.file [some/directory]  
+下载目录下所有远程文件到本地：  
+mget *.* [some/directory]  
+退出：  
+bye/exit/quit
+</code></pre>
+<h2 id="SCP"><a href="#SCP" class="headerlink" title="SCP"></a>SCP</h2><blockquote>
+<p>SCP就是Secure copy，是用来进行远程文件复制的，并且整个复制过程是加密的。数据传输使用ssh，并且和使用和ssh相同的认证方式，提供相同的安全保证。</p>
+</blockquote>
+<pre><code>拷贝本地文件到远程：  
+scp filename.txt user@host:some/directory  
+拷贝本地文件到远程，使用指定端口：  
+scp -P 2234 filename.txt user@host:some/directory  
+拷贝多个文件到远程home：  
+scp filename1.txt filename2.txt user@host:~  
+拷贝远程文件到本地：  
+scp user@host:directory/filename.txt  /directory  
+拷贝远程文件夹到本地：  
+scp -r user@host:directory/folder  .  
+拷贝远程文件到远程：  
+scp user@host1:directory/filename.txt  user@host1:directory
+</code></pre>
+<h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><blockquote>
+<p><a target="_blank" rel="noopener" href="https://www.cnblogs.com/xingxia/p/system_ftp.html">文件传输协议FTP、SFTP和SCP</a></p>
+</blockquote>
+</div><div class="article-tags is-size-7 mb-4"><span class="mr-2">#</span><a class="link-muted mr-2" rel="tag" href="/tags/FTP/">FTP</a><a class="link-muted mr-2" rel="tag" href="/tags/SFTP/">SFTP</a><a class="link-muted mr-2" rel="tag" href="/tags/SCP/">SCP</a></div><!--!--></article></div><!--!--><nav class="post-navigation mt-4 level is-mobile"><div class="level-start"><a class="article-nav-prev level level-item link-muted" href="/four/"><i class="level-item fas fa-chevron-left"></i><span class="level-item">计算机网络基础知识</span></a></div><div class="level-end"><a class="article-nav-next level level-item link-muted" href="/Docker&amp;Hexo-build-blog/"><span class="level-item">Hexo + Docker 搭建博客</span><i class="level-item fas fa-chevron-right"></i></a></div></nav><!--!--></div><div class="column column-left is-4-tablet is-4-desktop is-4-widescreen  order-1 is-sticky"><div class="card widget" id="toc" data-type="toc"><div class="card-content"><div class="menu"><h3 class="menu-label">目录</h3><ul class="menu-list"><li><a class="level is-mobile" href="#它们是什么？"><span class="level-left"><span class="level-item">1</span><span class="level-item">它们是什么？</span></span></a><ul class="menu-list"><li><a class="level is-mobile" href="#FTP"><span class="level-left"><span class="level-item">1.1</span><span class="level-item">FTP</span></span></a></li><li><a class="level is-mobile" href="#SFTP"><span class="level-left"><span class="level-item">1.2</span><span class="level-item">SFTP</span></span></a></li><li><a class="level is-mobile" href="#SCP"><span class="level-left"><span class="level-item">1.3</span><span class="level-item">SCP</span></span></a></li></ul></li><li><a class="level is-mobile" href="#参考资料"><span class="level-left"><span class="level-item">2</span><span class="level-item">参考资料</span></span></a></li></ul></div></div><style>#toc .menu-list > li > a.is-active + .menu-list { display: block; }#toc .menu-list > li > a + .menu-list { display: none; }</style><script src="/js/toc.js" defer></script></div><div class="card widget" data-type="tags"><div class="card-content"><div class="menu"><h3 class="menu-label">标签</h3><div class="field is-grouped is-grouped-multiline"><div class="control"><a class="tags has-addons" href="/tags/Axios/"><span class="tag">Axios</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/C/"><span class="tag">C</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/C/"><span class="tag">C++</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/CSS/"><span class="tag">CSS</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Cross-domin/"><span class="tag">Cross-domin</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Data-Structure/"><span class="tag">Data Structure</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Docker/"><span class="tag">Docker</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Electron/"><span class="tag">Electron</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Express/"><span class="tag">Express</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/FTP/"><span class="tag">FTP</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Flex/"><span class="tag">Flex</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Hexo/"><span class="tag">Hexo</span><span class="tag">4</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Https/"><span class="tag">Https</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Linux/"><span class="tag">Linux</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Markdown/"><span class="tag">Markdown</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/NPM/"><span class="tag">NPM</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/NVM/"><span class="tag">NVM</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Network/"><span class="tag">Network</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Node/"><span class="tag">Node</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Others/"><span class="tag">Others</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/SCP/"><span class="tag">SCP</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/SFTP/"><span class="tag">SFTP</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/SSH/"><span class="tag">SSH</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Sublime/"><span class="tag">Sublime</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Uni-app/"><span class="tag">Uni-app</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Vue/"><span class="tag">Vue</span><span class="tag">4</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Win10/"><span class="tag">Win10</span><span class="tag">1</span></a></div></div></div></div></div></div><!--!--></div></div></section><footer class="footer"><div class="container"><div class="level"><div class="level-start"><a class="footer-logo is-block mb-2" href="/"><img src="/img/logo.svg" alt="阿东zza" height="28"></a><p class="is-size-7"><span>&copy; 2023 adyoow</span>  Powered by <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a> &amp; <a href="https://github.com/ppoffice/hexo-theme-icarus" target="_blank" rel="noopener">Icarus</a></p></div><div class="level-end"></div></div></div></footer><script src="https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/moment@2.22.2/min/moment-with-locales.min.js"></script><script src="https://cdn.jsdelivr.net/npm/clipboard@2.0.4/dist/clipboard.min.js" defer></script><script>moment.locale("zh-CN");</script><script>var IcarusThemeSettings = {
+            article: {
+                highlight: {
+                    clipboard: true,
+                    fold: 'unfolded'
+                }
+            }
+        };</script><script src="/js/column.js"></script><script src="/js/animation.js"></script><a id="back-to-top" title="回到顶端" href="javascript:;"><i class="fas fa-chevron-up"></i></a><script src="/js/back_to_top.js" defer></script><!--!--><!--!--><!--!--><script src="https://cdn.jsdelivr.net/npm/cookieconsent@3.1.1/build/cookieconsent.min.js" defer></script><script>window.addEventListener("load", () => {
+      window.cookieconsent.initialise({
+        type: "info",
+        theme: "edgeless",
+        static: false,
+        position: "bottom-left",
+        content: {
+          message: "此网站使用Cookie来改善您的体验。",
+          dismiss: "知道了！",
+          allow: "允许使用Cookie",
+          deny: "拒绝",
+          link: "了解更多",
+          policy: "Cookie政策",
+          href: "https://www.cookiesandyou.com/",
+        },
+        palette: {
+          popup: {
+            background: "#edeff5",
+            text: "#838391"
+          },
+          button: {
+            background: "#4b81e8"
+          },
+        },
+      });
+    });</script><script src="https://cdn.jsdelivr.net/npm/lightgallery@1.6.8/dist/js/lightgallery.min.js" defer></script><script src="https://cdn.jsdelivr.net/npm/justifiedGallery@3.7.0/dist/js/jquery.justifiedGallery.min.js" defer></script><script>window.addEventListener("load", () => {
+            if (typeof $.fn.lightGallery === 'function') {
+                $('.article').lightGallery({ selector: '.gallery-item' });
+            }
+            if (typeof $.fn.justifiedGallery === 'function') {
+                if ($('.justified-gallery > p > .gallery-item').length) {
+                    $('.justified-gallery > p > .gallery-item').unwrap();
+                }
+                $('.justified-gallery').justifiedGallery();
+            }
+        });</script><!--!--><!--!--><!--!--><!--!--><!--!--><script src="/js/main.js" defer></script><div class="searchbox"><div class="searchbox-container"><div class="searchbox-header"><div class="searchbox-input-container"><input class="searchbox-input" type="text" placeholder="想要查找什么..."></div><a class="searchbox-close" href="javascript:;">×</a></div><div class="searchbox-body"></div></div></div><script src="/js/insight.js" defer></script><script>document.addEventListener('DOMContentLoaded', function () {
+            loadInsight({"contentUrl":"/content.json"}, {"hint":"想要查找什么...","untitled":"(无标题)","posts":"文章","pages":"页面","categories":"分类","tags":"标签"});
+        });</script></body></html>
