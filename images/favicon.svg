@@ -1,1 +1,2401 @@
-<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg t="1678357608831" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="1940" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500"><path d="M600.287828 85.217834c-56.591889 56.591889-67.319869 143.17572-69.079866 184.33564-0.759999 17.807965 5.495989 23.919953 23.159955 23.159954 41.15992-1.759997 127.75175-12.479976 184.33564-69.079865 56.591889-56.591889 67.327869-143.17572 69.079865-184.33564 0.759999-17.655966-5.35999-23.919953-23.159954-23.151955-41.15992 1.751997-127.743751 12.479976-184.33564 69.071866z" fill="#6CF5C5" p-id="1941"></path><path d="M531.111963 623.728782m-382.183254 0a382.183254 382.183254 0 1 0 764.366507 0 382.183254 382.183254 0 1 0-764.366507 0Z" fill="#FFB446" p-id="1942"></path><path d="M786.863463 674.400683h-62.271878a16.079969 16.079969 0 0 1 0-32.159937h62.271878a16.079969 16.079969 0 0 1 0 32.159937z" fill="#FF6376" p-id="1943"></path><path d="M494.680034 654.280722a52.575897 52.575897 0 0 1-52.519898-52.511897 16.079969 16.079969 0 1 1 32.151938 0 20.39196 20.39196 0 0 0 20.36796 20.36796 20.39196 20.39196 0 0 0 20.36796-20.36796 16.079969 16.079969 0 1 1 32.151937 0 52.575897 52.575897 0 0 1-52.519897 52.511897z" fill="#3F4963" p-id="1944"></path><path d="M567.567891 654.280722a52.575897 52.575897 0 0 1-52.519897-52.511897 16.079969 16.079969 0 1 1 32.151937 0 20.39996 20.39996 0 0 0 20.36796 20.36796 20.39196 20.39196 0 0 0 20.367961-20.36796 16.079969 16.079969 0 1 1 32.143937 0 52.583897 52.583897 0 0 1-52.511898 52.511897zM784.839467 603.856821c-8.879983 0-16.079969-7.199986-16.079968-16.079969a13.039975 13.039975 0 0 0-13.031975-13.023975 13.039975 13.039975 0 0 0-13.023975 13.023975 16.079969 16.079969 0 1 1-32.151937 0 45.231912 45.231912 0 0 1 45.175912-45.175912 45.231912 45.231912 0 0 1 45.183912 45.175912c0 8.879983-7.199986 16.079969-16.079969 16.079969z" fill="#3F4963" p-id="1945"></path><path d="M337.648341 674.400683h-62.271879a16.079969 16.079969 0 0 1 0-32.159937h62.271879a16.079969 16.079969 0 0 1 0 32.159937z" fill="#FF6376" p-id="1946"></path><path d="M335.616344 603.856821c-8.879983 0-16.079969-7.199986-16.079968-16.079969a13.039975 13.039975 0 0 0-13.023975-13.023975 13.039975 13.039975 0 0 0-13.039974 13.023975 16.079969 16.079969 0 1 1-32.143937 0 45.231912 45.231912 0 0 1 45.183911-45.175912 45.231912 45.231912 0 0 1 45.175912 45.175912c0 8.879983-7.199986 16.079969-16.079968 16.079969z" fill="#3F4963" p-id="1947"></path><path d="M408.064203 360.969295m-29.103943 0a29.103943 29.103943 0 1 0 58.207886 0 29.103943 29.103943 0 1 0-58.207886 0Z" fill="#CF9945" p-id="1948"></path><path d="M583.85586 331.865352m-29.103943 0a29.103943 29.103943 0 1 0 58.207886 0 29.103943 29.103943 0 1 0-58.207886 0Z" fill="#CF9945" p-id="1949"></path><path d="M753.703528 406.705206m-29.103943 0a29.103943 29.103943 0 1 0 58.207886 0 29.103943 29.103943 0 1 0-58.207886 0Z" fill="#CF9945" p-id="1950"></path><path d="M637.783754 435.08115m-29.103943 0a29.103943 29.103943 0 1 0 58.207886 0 29.103943 29.103943 0 1 0-58.207886 0Z" fill="#CF9945" p-id="1951"></path><path d="M454.744112 474.905072m-29.103943 0a29.103943 29.103943 0 1 0 58.207886 0 29.103943 29.103943 0 1 0-58.207886 0Z" fill="#CF9945" p-id="1952"></path><path d="M421.352177 732.648569m-29.103943 0a29.103943 29.103943 0 1 0 58.207886 0 29.103943 29.103943 0 1 0-58.207886 0Z" fill="#CF9945" p-id="1953"></path><path d="M378.93626 854.81633m-29.103943 0a29.103943 29.103943 0 1 0 58.207886 0 29.103943 29.103943 0 1 0-58.207886 0Z" fill="#CF9945" p-id="1954"></path><path d="M287.824438 431.329158m-29.103943 0a29.103943 29.103943 0 1 0 58.207886 0 29.103943 29.103943 0 1 0-58.207886 0Z" fill="#CF9945" p-id="1955"></path><path d="M786.863463 774.616487m-29.103943 0a29.103943 29.103943 0 1 0 58.207886 0 29.103943 29.103943 0 1 0-58.207886 0Z" fill="#CF9945" p-id="1956"></path><path d="M681.503669 874.104293m-29.103943 0a29.103943 29.103943 0 1 0 58.207886 0 29.103943 29.103943 0 1 0-58.207886 0Z" fill="#CF9945" p-id="1957"></path><path d="M494.672034 913.032217m-29.103943 0a29.103943 29.103943 0 1 0 58.207886 0 29.103943 29.103943 0 1 0-58.207886 0Z" fill="#CF9945" p-id="1958"></path><path d="M583.85586 788.72046m-29.103943 0a29.103943 29.103943 0 1 0 58.207886 0 29.103943 29.103943 0 1 0-58.207886 0Z" fill="#CF9945" p-id="1959"></path><path d="M178.192652 924.032195c56.591889 56.591889 143.17572 67.319869 184.33564 69.079865 17.807965 0.759999 23.911953-5.503989 23.159955-23.159954-1.759997-41.15992-12.479976-127.75175-69.079865-184.34364-56.591889-56.583889-143.17572-67.319869-184.33564-69.071865-17.655966-0.759999-23.919953 5.35199-23.159955 23.159954 1.759997 41.15992 12.495976 127.743751 69.079865 184.33564z" fill="#46C79C" p-id="1960"></path><path d="M306.512401 542.60094a45.231912 45.231912 0 0 0-45.183911 45.183912 16.079969 16.079969 0 1 0 32.159937 0c0-7.183986 5.839989-13.039975 13.023974-13.039975 7.183986 0 13.031975 5.855989 13.031975 13.039975a16.079969 16.079969 0 1 0 32.143937 0 45.231912 45.231912 0 0 0-45.175912-45.183912z m401.839216-275.455462c15.663969-9.311982 29.631942-20.055961 41.719918-32.143937 25.53595-25.52795 69.071865-84.815834 73.775856-195.015619 0.367999-8.735983-0.192-21.407958-9.335982-30.55994C805.359427 0.273999 792.671452-0.293999 783.943469 0.082 673.743684 4.785991 614.4558 48.321906 588.91985 73.857856c-44.175914 44.175914-62.287878 104.551796-69.535864 151.791703-214.199582 6.231988-386.535245 182.399644-386.535245 398.079223 0 25.999949 2.535995 51.839899 7.503985 77.151849-2.447995-0.144-4.89599-0.295999-7.391986-0.399999a79.255845 79.255845 0 0 0-3.447993-0.08c-12.183976 0-21.199959 3.223994-27.543946 9.839981C93.216818 719.392595 92.688819 731.832571 93.048818 740.392554c4.703991 110.183785 48.239906 169.479669 73.775856 195.015619 25.52795 25.52795 84.807834 69.063865 195.015619 73.775856 1.183998 0.048 2.327995 0.08 3.431994 0.08 12.191976 0 21.207959-3.223994 27.559946-9.855981a29.039943 29.039943 0 0 0 1.391997-1.575997 396.271226 396.271226 0 0 0 136.895733 24.183953c219.607571 0 398.271222-178.663651 398.271222-398.271222 0-155.975695-90.127824-291.263431-221.039568-356.591304z m-96.695812-170.559667c17.895965-17.887965 70.639862-59.983883 173.655661-64.383874a28.719944 28.719944 0 0 1 6.167988 0.24c0.184 1.039998 0.383999 2.943994 0.24 6.175988-4.399991 103.015799-46.487909 155.759696-64.383875 173.64766-15.35197 15.35997-34.487933 28.223945-56.879888 38.367925a395.599227 395.599227 0 0 0-118.575769-24.639951c6.895987-41.471919 22.959955-92.599819 59.775883-129.399748zM369.384279 976.816092a23.191955 23.191955 0 0 1-4.111992 0.296c-0.663999 0-1.343997-0.016-2.055996-0.048-103.031799-4.407991-155.759696-46.495909-173.655661-64.391875-17.895965-17.895965-59.999883-70.639862-64.383874-173.64766a28.575944 28.575944 0 0 1 0.239999-6.167988c0.791998-0.144 2.087996-0.295999 4.095992-0.296 0.663999 0 1.359997 0.024 2.079996 0.048 103.015799 4.399991 155.759696 46.495909 173.647661 64.391874 17.895965 17.887965 59.983883 70.623862 64.383874 173.655661 0.144 3.215994-0.056 5.11999-0.239999 6.159988z m161.735684 13.039975a364.223289 364.223289 0 0 1-129.535747-23.575954c-5.36799-108.263789-48.319906-166.727674-73.607857-192.023625-22.175957-22.159957-69.807864-57.887887-154.087699-69.999864a368.239281 368.239281 0 0 1-8.887982-80.511842c0-201.879606 164.239679-366.127285 366.119285-366.127285 201.887606 0 366.127285 164.239679 366.127285 366.127285 0 201.879606-164.239679 366.119285-366.127285 366.119285z m224.615561-447.247127a45.231912 45.231912 0 0 0-45.183912 45.183912 16.079969 16.079969 0 1 0 32.151937 0c0-7.183986 5.839989-13.039975 13.031975-13.039975 7.183986 0 13.031975 5.855989 13.031975 13.039975a16.079969 16.079969 0 1 0 32.143937 0 45.231912 45.231912 0 0 0-45.175912-45.183912zM603.99982 585.696856c-8.879983 0-16.079969 7.199986-16.079968 16.071969a20.39196 20.39196 0 0 1-20.359961 20.36796 20.39996 20.39996 0 0 1-20.37596-20.36796 16.079969 16.079969 0 1 0-32.143937 0 20.39196 20.39196 0 0 1-20.36796 20.36796 20.39196 20.39196 0 0 1-20.36796-20.36796 16.079969 16.079969 0 1 0-32.151938 0 52.575897 52.575897 0 0 0 52.511898 52.511897 52.319898 52.319898 0 0 0 36.447929-14.751971 52.319898 52.319898 0 0 0 36.439929 14.751971 52.575897 52.575897 0 0 0 52.519897-52.511897c0-8.879983-7.199986-16.079969-16.079969-16.079969z" fill="#000000" p-id="1961"></path></svg>
+<svg viewBox="0 0 1200 1200" height="1200" width="1200" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clip-_3">
+      <rect height="1200" width="1200"></rect>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip-_3)" id="_3">
+    <rect fill="#fff" height="1200" width="1200"></rect>
+    <g transform="translate(50 50)" id="_03">
+      <rect fill="#d3e8f4" transform="translate(-50 -50)" height="1200" width="1200" id="背景"></rect>
+      <g id="服装">
+        <g id="组_156">
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(450 900)" id="矩形_209">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(450 950)" id="矩形_210">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(500 900)" id="矩形_208">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(500 950)" id="矩形_211">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(550 900)" id="矩形_209-2">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(550 950)" id="矩形_210-2">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(600 900)" id="矩形_208-2">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(600 950)" id="矩形_211-2">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(400 1000)" id="矩形_208-3">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(450 1000)" id="矩形_209-3">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(500 1000)" id="矩形_208-4">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(550 1000)" id="矩形_209-4">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(600 1000)" id="矩形_208-5">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(650 1000)" id="矩形_209-5">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+        </g>
+        <g id="组_158">
+          <g stroke-width="1" stroke="#ff8d00" fill="#ff8d00" transform="translate(900 850)" id="矩形_211-3">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+        </g>
+        <g id="组_159">
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(250 850)" id="矩形_210-3">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(350 850)" id="矩形_210-4">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(400 850)" id="矩形_211-4">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#bfbfbf" fill="#bfbfbf" transform="translate(450 850)" id="矩形_210-5">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#bfbfbf" fill="#bfbfbf" transform="translate(500 850)" id="矩形_211-5">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#bfbfbf" fill="#bfbfbf" transform="translate(550 850)" id="矩形_210-6">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#bfbfbf" fill="#bfbfbf" transform="translate(600 850)" id="矩形_211-6">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(650 850)" id="矩形_210-7">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(700 850)" id="矩形_211-7">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(800 850)" id="矩形_211-8">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(300 900)" id="矩形_208-6">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(300 950)" id="矩形_211-9">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(350 900)" id="矩形_209-6">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#e3e3e3" fill="#e3e3e3" transform="translate(350 950)" id="矩形_210-8">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#e3e3e3" fill="#e3e3e3" transform="translate(400 900)" id="矩形_208-7">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(400 950)" id="矩形_211-10">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#e0355c" fill="#e0355c" transform="translate(650 900)" id="矩形_209-7">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(650 950)" id="矩形_210-9">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(700 900)" id="矩形_208-8">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#e3e3e3" fill="#e3e3e3" transform="translate(700 950)" id="矩形_211-11">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(750 900)" id="矩形_209-8">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(750 950)" id="矩形_210-10">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#e3e3e3" fill="#e3e3e3" transform="translate(350 1000)" id="矩形_209-9">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#e3e3e3" fill="#e3e3e3" transform="translate(700 1000)" id="矩形_208-9">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+        </g>
+        <g id="组_162">
+          <g stroke-width="1" stroke="#000" transform="translate(450 300)" id="矩形_209-10">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#000" transform="translate(500 300)" id="矩形_208-10">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#000" transform="translate(550 300)" id="矩形_209-11">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#000" transform="translate(600 300)" id="矩形_208-11">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#000" transform="translate(500 400)" id="矩形_208-12">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#000" transform="translate(550 400)" id="矩形_209-12">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#000" transform="translate(500 650)" id="矩形_211-12">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#000" transform="translate(550 650)" id="矩形_210-11">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+        </g>
+        <g id="组_157">
+          <g stroke-width="1" stroke="#bfbfbf" fill="#bfbfbf" transform="translate(300 850)" id="矩形_211-13">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#bfbfbf" fill="#bfbfbf" transform="translate(350 800)" id="矩形_209-13">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#bfbfbf" fill="#bfbfbf" transform="translate(400 800)" id="矩形_208-13">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#bfbfbf" fill="#bfbfbf" transform="translate(650 800)" id="矩形_209-14">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#bfbfbf" fill="#bfbfbf" transform="translate(700 800)" id="矩形_208-14">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#bfbfbf" fill="#bfbfbf" transform="translate(750 850)" id="矩形_210-12">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#ec8795" fill="#ec8795" transform="translate(250 900)" id="矩形_209-15">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#55d1c6" fill="#55d1c6" transform="translate(250 950)" id="矩形_210-13">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#ec8795" fill="#ec8795" transform="translate(800 900)" id="矩形_208-15">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#55d1c6" fill="#55d1c6" transform="translate(800 950)" id="矩形_211-14">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+        </g>
+      </g>
+      <g id="灰">
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(200 800)" id="矩形_208-16">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(250 50)" id="矩形_210-14">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(300 50)" id="矩形_211-15">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(350)" id="矩形_209-16">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(400)" id="矩形_208-17">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(450)" id="矩形_209-17">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(500)" id="矩形_208-18">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(200 100)" id="矩形_208-19">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(100 200)" id="矩形_208-20">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(50 300)" id="矩形_209-18">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(50 350)" id="矩形_210-15">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(50 400)" id="矩形_209-19">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(50 450)" id="矩形_210-16">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(50 500)" id="矩形_209-20">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(50 550)" id="矩形_210-17">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(50 600)" id="矩形_209-21">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(100 650)" id="矩形_211-16">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(100 700)" id="矩形_208-21">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(150 750)" id="矩形_210-18">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(850 800)" id="矩形_208-22">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(800 50)" id="矩形_210-19">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(750 50)" id="矩形_211-17">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(700)" id="矩形_209-22">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(650)" id="矩形_208-23">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(600)" id="矩形_209-23">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(550)" id="矩形_208-24">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(850 100)" id="矩形_208-25">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(1000 300)" id="矩形_209-24">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(1000 350)" id="矩形_210-20">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(1000 400)" id="矩形_209-25">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(1000 450)" id="矩形_210-21">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(1000 500)" id="矩形_209-26">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(1000 550)" id="矩形_210-22">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(1000 600)" id="矩形_209-27">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(1000 650)" id="矩形_211-18">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(950 700)" id="矩形_208-26">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(900 750)" id="矩形_210-23">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(50 250)" id="矩形_210-24">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(150 150)" id="矩形_210-25">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(900 150)" id="矩形_210-26">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(950 200)" id="矩形_208-27">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(1000 250)" id="矩形_211-19">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(900 750)" id="矩形_211-20">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(950 700)" id="矩形_209-28">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(850 800)" id="矩形_209-29">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(1000 650)" id="矩形_211-21">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+      </g>
+      <g id="白">
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(400 500)" id="矩形_208-28">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(650 500)" id="矩形_209-30">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(300 600)" id="矩形_208-29">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(300 650)" id="矩形_211-22">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(700 650)" id="矩形_211-23">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(750 600)" id="矩形_209-31">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(750 650)" id="矩形_210-27">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(350 700)" id="矩形_209-32">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(400 700)" id="矩形_208-30">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(650 700)" id="矩形_209-33">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(700 700)" id="矩形_208-31">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(350 650)" id="矩形_210-28">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(450 650)" id="矩形_210-29">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(600 650)" id="矩形_211-24">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(450 700)" id="矩形_209-34">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(600 700)" id="矩形_208-32">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g id="组_161">
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(500 700)" id="矩形_208-33">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(500 750)" id="矩形_211-25">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(550 700)" id="矩形_209-35">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(550 750)" id="矩形_210-30">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(450 750)" id="矩形_210-31">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(600 750)" id="矩形_211-26">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+        </g>
+      </g>
+      <g id="淡黄">
+        <g stroke-width="1" stroke="#ffebcd" fill="#ffebcd" transform="translate(300 500)" id="矩形_208-34">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ffebcd" fill="#ffebcd" transform="translate(300 550)" id="矩形_211-27">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ffebcd" fill="#ffebcd" transform="translate(750 500)" id="矩形_209-36">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ffebcd" fill="#ffebcd" transform="translate(750 550)" id="矩形_210-32">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ffebcd" fill="#ffebcd" transform="translate(350 600)" id="矩形_209-37">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ffebcd" fill="#ffebcd" transform="translate(700 600)" id="矩形_208-35">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+      </g>
+      <g id="淡">
+        <g stroke-width="1" stroke="#ffebcd" fill="#ffebcd" transform="translate(400 350)" id="矩形_211-28">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ffebcd" fill="#ffebcd" transform="translate(650 350)" id="矩形_210-33">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ffebcd" fill="#ffebcd" transform="translate(450 400)" id="矩形_209-38">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ffebcd" fill="#ffebcd" transform="translate(600 400)" id="矩形_208-36">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ffebcd" fill="#ffebcd" transform="translate(250 300)" id="矩形_209-39">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ffebcd" fill="#ffebcd" transform="translate(800 300)" id="矩形_208-37">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+      </g>
+      <g id="橙">
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(200 250)" id="矩形_211-29">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g id="组_160">
+          <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(500 500)" id="矩形_208-38">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(550 500)" id="矩形_209-40">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(500 600)" id="矩形_208-39">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(550 600)" id="矩形_209-41">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+        </g>
+        <g id="黄">
+          <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(300 250)" id="矩形_211-30">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(200 300)" id="矩形_208-40">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(200 350)" id="矩形_211-31">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(250 350)" id="矩形_210-34">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(300 300)" id="矩形_208-41">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(300 350)" id="矩形_211-32">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(750 300)" id="矩形_209-42">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(750 350)" id="矩形_210-35">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(800 350)" id="矩形_211-33">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(850 300)" id="矩形_209-43">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(850 350)" id="矩形_210-36">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(250 400)" id="矩形_209-44">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(800 400)" id="矩形_208-42">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(250 250)" id="矩形_210-37">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(800 250)" id="矩形_211-34">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(850 250)" id="矩形_210-38">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(750 250)" id="矩形_210-39">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(600 600)" id="矩形_208-43">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(600 350)" id="矩形_211-35">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(450 250)" id="矩形_210-40">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(500 250)" id="矩形_211-36">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(550 250)" id="矩形_210-41">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(600 250)" id="矩形_211-37">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(400 300)" id="矩形_208-44">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(450 350)" id="矩形_210-42">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(500 350)" id="矩形_211-38">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(550 350)" id="矩形_210-43">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(650 300)" id="矩形_209-45">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(300 450)" id="矩形_211-39">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(350 400)" id="矩形_209-46">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(350 450)" id="矩形_210-44">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(400 400)" id="矩形_208-45">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(400 450)" id="矩形_211-40">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(450 450)" id="矩形_210-45">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(500 450)" id="矩形_211-41">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(550 450)" id="矩形_210-46">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(600 450)" id="矩形_211-42">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(650 400)" id="矩形_209-47">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(650 450)" id="矩形_210-47">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(700 400)" id="矩形_208-46">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(700 450)" id="矩形_211-43">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(750 450)" id="矩形_210-48">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(450 500)" id="矩形_209-48">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(450 550)" id="矩形_210-49">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(500 550)" id="矩形_211-44">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(550 550)" id="矩形_210-50">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(600 500)" id="矩形_208-47">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(600 550)" id="矩形_211-45">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(400 650)" id="矩形_211-46">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(450 600)" id="矩形_209-49">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(650 650)" id="矩形_210-51">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(350 350)" id="矩形_210-52">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(300 400)" id="矩形_208-48">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(700 350)" id="矩形_211-47">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(750 400)" id="矩形_209-50">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(350 300)" id="矩形_209-51">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8c00" fill="#ff8d00" transform="translate(700 300)" id="矩形_208-49">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#ff8d00" fill="#ff8d00" transform="translate(950 750)" id="矩形_210-53">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+      </g>
+      <g id="黑">
+        <g stroke-width="1" stroke="#000" transform="translate(250 200)" id="矩形_210-54">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(300 200)" id="矩形_211-48">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(750 200)" id="矩形_210-55">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(350 250)" id="矩形_210-56">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(400 250)" id="矩形_211-49">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(150 300)" id="矩形_209-52">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(150 350)" id="矩形_210-57">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(200 400)" id="矩形_208-50">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(800 200)" id="矩形_211-50">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(450 200)" id="矩形_209-53">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(500 200)" id="矩形_208-51">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(550 200)" id="矩形_209-54">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(600 200)" id="矩形_208-52">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(650 250)" id="矩形_210-58">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(700 250)" id="矩形_211-51">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(900 300)" id="矩形_208-53">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(900 350)" id="矩形_211-52">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(850 400)" id="矩形_209-55">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(250 450)" id="矩形_210-59">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(800 450)" id="矩形_211-53">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(250 500)" id="矩形_209-56">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(250 550)" id="矩形_210-60">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(350 500)" id="矩形_209-57">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(350 550)" id="矩形_210-61">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(400 550)" id="矩形_211-54">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(650 550)" id="矩形_210-62">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(700 500)" id="矩形_208-54">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(700 550)" id="矩形_211-55">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(800 500)" id="矩形_208-55">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(800 550)" id="矩形_211-56">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(200 600)" id="矩形_208-56">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(250 600)" id="矩形_209-58">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(250 650)" id="矩形_210-63">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(400 600)" id="矩形_208-57">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(650 600)" id="矩形_209-59">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(800 600)" id="矩形_208-58">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(800 650)" id="矩形_211-57">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(850 600)" id="矩形_209-60">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(300 700)" id="矩形_208-59">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(750 700)" id="矩形_209-61">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(350 750)" id="矩形_210-64">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(400 750)" id="矩形_211-58">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(650 750)" id="矩形_210-65">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(700 750)" id="矩形_211-59">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(200 850)" id="矩形_211-60">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(250 800)" id="矩形_209-62">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(300 800)" id="矩形_208-60">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(450 800)" id="矩形_209-63">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(500 800)" id="矩形_208-61">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(550 800)" id="矩形_209-64">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(600 800)" id="矩形_208-62">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(750 800)" id="矩形_209-65">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(800 800)" id="矩形_208-63">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(200 900)" id="矩形_208-64">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(200 950)" id="矩形_211-61">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(1000 750)" id="矩形_211-62">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(850 850)" id="矩形_210-66">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(950 800)" id="矩形_209-66">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(950 850)" id="矩形_210-67">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(850 900)" id="矩形_209-67">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(850 950)" id="矩形_210-68">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(900 900)" id="矩形_208-65">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(250 1000)" id="矩形_209-68">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(300 1000)" id="矩形_208-66">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(350 1050)" id="矩形_210-69">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(400 1050)" id="矩形_211-63">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(450 1050)" id="矩形_210-70">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(500 1050)" id="矩形_211-64">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(550 1050)" id="矩形_210-71">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(600 1050)" id="矩形_211-65">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(650 1050)" id="矩形_210-72">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(700 1050)" id="矩形_211-66">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(750 1000)" id="矩形_209-69">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(800 1000)" id="矩形_208-67">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(150 250)" id="矩形_210-73">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(200 200)" id="矩形_208-68">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(850 200)" id="矩形_209-70">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(900 250)" id="矩形_211-67">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#030303" transform="translate(1000 800)" id="矩形_208-69">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+        <g stroke-width="1" stroke="#000" transform="translate(900 800)" id="矩形_208-70">
+          <rect stroke="none" height="50" width="50"></rect>
+          <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+        </g>
+      </g>
+      <g id="头盔">
+        <g opacity="0.2" id="蓝">
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(750 750)" id="矩形_210-74">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(800 700)" id="矩形_208-71">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(800 750)" id="矩形_211-68">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(850 700)" id="矩形_209-71">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(800 100)" id="矩形_208-72">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(850 150)" id="矩形_210-75">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(850 200)" id="矩形_209-72">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(900 200)" id="矩形_208-73">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(900 250)" id="矩形_211-69">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(950 300)" id="矩形_209-73">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(950 350)" id="矩形_210-76">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(850 450)" id="矩形_210-77">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(900 400)" id="矩形_208-74">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(900 450)" id="矩形_211-70">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(950 400)" id="矩形_209-74">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(950 450)" id="矩形_210-78">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(850 500)" id="矩形_209-75">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(850 550)" id="矩形_210-79">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(900 500)" id="矩形_208-75">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(900 550)" id="矩形_211-71">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(950 500)" id="矩形_209-76">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(950 550)" id="矩形_210-80">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(850 650)" id="矩形_210-81">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(900 600)" id="矩形_208-76">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(900 650)" id="矩形_211-72">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(950 600)" id="矩形_209-77">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(850 750)" id="矩形_210-82">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(900 700)" id="矩形_208-77">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(950 650)" id="矩形_210-83">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(850 250)" id="矩形_210-84">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(900 300)" id="矩形_208-78">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(900 350)" id="矩形_211-73">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(850 400)" id="矩形_209-78">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(850 300)" id="矩形_209-79">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(850 350)" id="矩形_210-85">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(800 350)" id="矩形_211-74">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(200 750)" id="矩形_211-75">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(450 250)" id="矩形_210-86">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(150 250)" id="矩形_210-87">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(200 200)" id="矩形_208-79">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(100 300)" id="矩形_208-80">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(100 350)" id="矩形_211-76">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(100 400)" id="矩形_208-81">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(100 450)" id="矩形_211-77">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(150 450)" id="矩形_210-88">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(200 450)" id="矩形_211-78">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(100 500)" id="矩形_208-82">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(100 550)" id="矩形_211-79">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(150 500)" id="矩形_209-80">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(150 550)" id="矩形_210-89">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(200 500)" id="矩形_208-83">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(200 550)" id="矩形_211-80">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(100 600)" id="矩形_208-84">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(150 600)" id="矩形_209-81">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(150 650)" id="矩形_210-90">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(200 650)" id="矩形_211-81">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(150 700)" id="矩形_209-82">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(200 700)" id="矩形_208-85">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(250 700)" id="矩形_209-83">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(250 750)" id="矩形_210-91">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(300 750)" id="矩形_211-82">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(150 400)" id="矩形_209-84">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(200 250)" id="矩形_211-83">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(150 300)" id="矩形_209-85">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(150 350)" id="矩形_210-92">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(200 400)" id="矩形_208-86">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(200 300)" id="矩形_208-87">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(200 350)" id="矩形_211-84">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(250 350)" id="矩形_210-93">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(350 50)" id="矩形_210-94">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(400 50)" id="矩形_211-85">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(450 50)" id="矩形_210-95">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(500 50)" id="矩形_211-86">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(550 50)" id="矩形_210-96">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(600 50)" id="矩形_211-87">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(650 50)" id="矩形_210-97">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(700 50)" id="矩形_211-88">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(200 150)" id="矩形_211-89">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(250 100)" id="矩形_209-86">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(350 100)" id="矩形_209-87">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(400 100)" id="矩形_208-88">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(400 150)" id="矩形_211-90">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(450 100)" id="矩形_209-88">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(450 150)" id="矩形_210-98">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(500 100)" id="矩形_208-89">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(500 150)" id="矩形_211-91">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(550 100)" id="矩形_209-89">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(550 150)" id="矩形_210-99">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(600 100)" id="矩形_208-90">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(600 150)" id="矩形_211-92">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(650 100)" id="矩形_209-90">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(650 150)" id="矩形_210-100">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(700 100)" id="矩形_208-91">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(150 200)" id="矩形_209-91">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(450 200)" id="矩形_209-92">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(500 200)" id="矩形_208-92">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(550 200)" id="矩形_209-93">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(600 200)" id="矩形_208-93">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(600 250)" id="矩形_211-93">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(400 200)" id="矩形_208-94">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(650 200)" id="矩形_209-94">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g id="白-2">
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(300 600)" id="矩形_208-95">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(300 650)" id="矩形_211-94">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(700 650)" id="矩形_211-95">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(750 600)" id="矩形_209-95">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(750 650)" id="矩形_210-101">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(350 700)" id="矩形_209-96">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(400 700)" id="矩形_208-96">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(450 700)" id="矩形_209-97">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(600 700)" id="矩形_208-97">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(650 700)" id="矩形_209-98">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(700 700)" id="矩形_208-98">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(350 650)" id="矩形_210-102">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(300 200)" id="矩形_211-96">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(750 200)" id="矩形_210-103">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(300 150)" id="矩形_208-99">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(750 150)" id="矩形_209-99">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(300 250)" id="矩形_211-97">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(750 250)" id="矩形_210-104">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(300 300)" id="矩形_208-100">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(750 300)" id="矩形_209-100">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+          </g>
+          <g id="白-3">
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(500 500)" id="矩形_208-101">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(550 500)" id="矩形_209-101">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(350 600)" id="矩形_209-102">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(700 600)" id="矩形_208-102">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(600 600)" id="矩形_208-103">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(500 550)" id="矩形_211-98">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(550 550)" id="矩形_210-105">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(400 650)" id="矩形_211-99">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(450 600)" id="矩形_209-103">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(450 650)" id="矩形_210-106">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(600 650)" id="矩形_211-100">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(650 650)" id="矩形_210-107">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(450 750)" id="矩形_210-108">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(600 750)" id="矩形_211-101">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(500 600)" id="矩形_208-104">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(550 600)" id="矩形_209-104">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(450 550)" id="矩形_210-109">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(600 550)" id="矩形_211-102">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+          </g>
+          <g id="深灰">
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(400 350)" id="矩形_211-103">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(650 350)" id="矩形_210-110">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(450 400)" id="矩形_209-105">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(600 400)" id="矩形_208-105">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+          </g>
+          <g id="灰-2">
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(600 350)" id="矩形_211-104">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(450 350)" id="矩形_210-111">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(500 300)" id="矩形_208-106">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(500 350)" id="矩形_211-105">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(550 300)" id="矩形_209-106">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(550 350)" id="矩形_210-112">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(300 450)" id="矩形_211-106">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(350 400)" id="矩形_209-107">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(350 450)" id="矩形_210-113">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(400 400)" id="矩形_208-107">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(400 450)" id="矩形_211-107">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(450 450)" id="矩形_210-114">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(500 400)" id="矩形_208-108">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(500 450)" id="矩形_211-108">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(550 400)" id="矩形_209-108">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(550 450)" id="矩形_210-115">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(600 450)" id="矩形_211-109">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(650 400)" id="矩形_209-109">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(650 450)" id="矩形_210-116">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(700 400)" id="矩形_208-109">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(700 450)" id="矩形_211-110">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(450 500)" id="矩形_209-110">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(600 500)" id="矩形_208-110">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(500 700)" id="矩形_208-111">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(550 700)" id="矩形_209-111">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(350 350)" id="矩形_210-117">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(300 400)" id="矩形_208-112">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(700 350)" id="矩形_211-111">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(750 400)" id="矩形_209-112">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(350 300)" id="矩形_209-113">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(700 300)" id="矩形_208-113">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(300 500)" id="矩形_208-114">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(300 550)" id="矩形_211-112">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(750 550)" id="矩形_210-118">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(750 450)" id="矩形_210-119">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(750 500)" id="矩形_209-114">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(500 750)" id="矩形_211-113">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(550 750)" id="矩形_210-120">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+          </g>
+          <g id="黑-2">
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(250 200)" id="矩形_210-121">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(300 100)" id="矩形_208-115">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(350 200)" id="矩形_210-122">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(250 150)" id="矩形_209-115">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(350 150)" id="矩形_209-116">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(350 250)" id="矩形_210-123">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(750 100)" id="矩形_209-117">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(800 200)" id="矩形_211-114">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(700 150)" id="矩形_208-116">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(700 250)" id="矩形_211-115">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(800 150)" id="矩形_208-117">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(250 450)" id="矩形_210-124">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(800 450)" id="矩形_211-116">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(250 500)" id="矩形_209-118">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(250 550)" id="矩形_210-125">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(350 500)" id="矩形_209-119">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(350 550)" id="矩形_210-126">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(400 550)" id="矩形_211-117">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(650 550)" id="矩形_210-127">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(700 500)" id="矩形_208-118">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(700 550)" id="矩形_211-118">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(800 500)" id="矩形_208-119">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(800 550)" id="矩形_211-119">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(200 600)" id="矩形_208-120">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(250 600)" id="矩形_209-120">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(250 650)" id="矩形_210-128">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(400 600)" id="矩形_208-121">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(650 600)" id="矩形_209-121">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(800 600)" id="矩形_208-122">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(800 650)" id="矩形_211-120">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(850 600)" id="矩形_209-122">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(300 700)" id="矩形_208-123">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(750 700)" id="矩形_209-123">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(350 750)" id="矩形_210-129">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(400 750)" id="矩形_211-121">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(650 750)" id="矩形_210-130">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(700 750)" id="矩形_211-122">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(1000 650)" id="矩形_211-123">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(250 400)" id="矩形_209-124">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(800 400)" id="矩形_208-124">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(250 250)" id="矩形_210-131">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(800 250)" id="矩形_211-124">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(500 250)" id="矩形_211-125">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(550 250)" id="矩形_210-132">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(400 300)" id="矩形_208-125">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(650 300)" id="矩形_209-125">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(400 250)" id="矩形_211-126">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(650 250)" id="矩形_210-133">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(450 300)" id="矩形_209-126">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(600 300)" id="矩形_208-126">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(350 200)" id="矩形_213">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(700 200)" id="矩形_211-127">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(250 300)" id="矩形_209-127">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(800 300)" id="矩形_208-127">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(300 350)" id="矩形_211-128">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(750 350)" id="矩形_210-134">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+          </g>
+          <g id="红">
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(500 650)" id="矩形_211-129">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(550 650)" id="矩形_210-135">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(400 500)" id="矩形_208-128">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+            <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(650 500)" id="矩形_209-128">
+              <rect stroke="none" height="50" width="50"></rect>
+              <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+            </g>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(750 800)" id="矩形_224">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(800 800)" id="矩形_225">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(250 800)" id="矩形_226">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(300 800)" id="矩形_227">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(450 800)" id="矩形_228">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(600 800)" id="矩形_229">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(500 800)" id="矩形_230">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(550 800)" id="矩形_231">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(350 800)" id="矩形_232">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(400 800)" id="矩形_233">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(650 800)" id="矩形_234">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(700 800)" id="矩形_235">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+        </g>
+        <g id="白色">
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(200 800)" id="矩形_208-129">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(250 50)" id="矩形_210-136">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(300 50)" id="矩形_211-130">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(350)" id="矩形_209-129">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(400)" id="矩形_208-130">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(450)" id="矩形_209-130">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(500)" id="矩形_208-131">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(150 150)" id="矩形_210-137">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(200 100)" id="矩形_208-132">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(100 200)" id="矩形_208-133">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(100 250)" id="矩形_211-131">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(50 300)" id="矩形_209-131">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(50 350)" id="矩形_210-138">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(50 400)" id="矩形_209-132">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(50 450)" id="矩形_210-139">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(50 500)" id="矩形_209-133">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(50 550)" id="矩形_210-140">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(50 600)" id="矩形_209-134">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(100 650)" id="矩形_211-132">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(100 700)" id="矩形_208-134">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(150 750)" id="矩形_210-141">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(850 800)" id="矩形_208-135">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(800 50)" id="矩形_210-142">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(750 50)" id="矩形_211-133">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(700)" id="矩形_209-135">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(650)" id="矩形_208-136">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(600)" id="矩形_209-136">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(550)" id="矩形_208-137">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(900 150)" id="矩形_210-143">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(850 100)" id="矩形_208-138">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(950 200)" id="矩形_208-139">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(950 250)" id="矩形_211-134">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(1000 300)" id="矩形_209-137">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(1000 350)" id="矩形_210-144">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(1000 400)" id="矩形_209-138">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(1000 450)" id="矩形_210-145">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(1000 500)" id="矩形_209-139">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(1000 550)" id="矩形_210-146">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(1000 600)" id="矩形_209-140">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(1000 650)" id="矩形_211-135">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(950 700)" id="矩形_208-140">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(900 750)" id="矩形_210-147">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(0 350)" id="矩形_214">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(0 400)" id="矩形_215">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(0 450)" id="矩形_216">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(0 500)" id="矩形_217">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(0 550)" id="矩形_218">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(1050 350)" id="矩形_219">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(1050 400)" id="矩形_220">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(1050 450)" id="矩形_221">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(1050 500)" id="矩形_222">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+          <g stroke-width="1" stroke="#fff" fill="#fff" transform="translate(1050 550)" id="矩形_223">
+            <rect stroke="none" height="50" width="50"></rect>
+            <rect fill="none" height="49" width="49" y="0.5" x="0.5"></rect>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
