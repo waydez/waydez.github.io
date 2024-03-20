@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="zh"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><meta><title>linux漏洞修复 - 阿东zza</title><link rel="manifest" href="/manifest.json"><meta name="application-name" content="阿东zza"><meta name="msapplication-TileImage" content="/images/favicon.svg"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="阿东zza"><meta name="apple-mobile-web-app-status-bar-style" content="default"><meta name="description" content="前言本内容根据个人经历所记，会解决大部分漏洞内容，但不一定包括全部。"><meta property="og:type" content="blog"><meta property="og:title" content="(&gt;_&lt;)"><meta property="og:url" content="https://waydez.github.io/linux-soft-bug-repair/"><meta property="og:site_name" content="阿东zza"><meta property="og:description" content="前言本内容根据个人经历所记，会解决大部分漏洞内容，但不一定包括全部。"><meta property="og:locale" content="zh_CN"><meta property="og:image" content="https://waydez.github.io/img/og_image.png"><meta property="article:published_time" content="2021-07-13T05:06:08.000Z"><meta property="article:modified_time" content="2024-01-17T03:53:31.854Z"><meta property="article:author" content="waydez"><meta property="article:tag" content="Linux"><meta property="twitter:card" content="summary"><meta property="twitter:image:src" content="https://waydez.github.io/img/og_image.png"><script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://waydez.github.io/linux-soft-bug-repair/"},"headline":"linux漏洞修复","image":["https://waydez.github.io/img/og_image.png"],"datePublished":"2021-07-13T05:06:08.000Z","dateModified":"2024-01-17T03:53:31.854Z","author":{"@type":"Person","name":"waydez"},"publisher":{"@type":"Organization","name":"阿东zza","logo":{"@type":"ImageObject","url":"https://waydez.github.io/images/logo.svg"}},"description":"前言本内容根据个人经历所记，会解决大部分漏洞内容，但不一定包括全部。"}</script><link rel="canonical" href="https://waydez.github.io/linux-soft-bug-repair/"><link rel="icon" href="/images/favicon.svg"><link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.0.0/css/all.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/highlight.js@11.7.0/styles/atom-one-light.css"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;600&amp;family=Source+Code+Pro"><link rel="stylesheet" href="/css/default.css"><style>body>.footer,body>.navbar,body>.section{opacity:0}</style><!--!--><!--!--><!--!--><!--!--><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/cookieconsent@3.1.1/build/cookieconsent.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery@1.10.0/dist/css/lightgallery.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/justifiedGallery@3.8.1/dist/css/justifiedGallery.min.css"><!--!--><!--!--><style>.pace{-webkit-pointer-events:none;pointer-events:none;-webkit-user-select:none;-moz-user-select:none;user-select:none}.pace-inactive{display:none}.pace .pace-progress{background:#3273dc;position:fixed;z-index:2000;top:0;right:100%;width:100%;height:2px}</style><script src="https://cdn.jsdelivr.net/npm/pace-js@1.2.4/pace.min.js"></script><!--!--><!--!--><!-- hexo injector head_end start --><script>
+  (function () {
+      function switchTab() {
+          if (!location.hash) {
+            return;
+          }
+
+          const id = '#' + CSS.escape(location.hash.substring(1));
+          const $tabMenu = document.querySelector(`.tabs a[href="${id}"]`);
+          if (!$tabMenu) {
+            return;
+          }
+
+          const $tabMenuContainer = $tabMenu.parentElement.parentElement;
+          Array.from($tabMenuContainer.children).forEach($menu => $menu.classList.remove('is-active'));
+          Array.from($tabMenuContainer.querySelectorAll('a'))
+              .map($menu => document.getElementById($menu.getAttribute("href").substring(1)))
+              .forEach($content => $content.classList.add('is-hidden'));
+
+          if ($tabMenu) {
+              $tabMenu.parentElement.classList.add('is-active');
+          }
+          const $activeTab = document.querySelector(id);
+          if ($activeTab) {
+              $activeTab.classList.remove('is-hidden');
+          }
+      }
+      switchTab();
+      window.addEventListener('hashchange', switchTab, false);
+  })();
+  </script><!-- hexo injector head_end end --><meta name="generator" content="Hexo 6.3.0"></head><body class="is-2-column"><nav class="navbar navbar-main"><div class="container navbar-container"><div class="navbar-brand justify-content-center"><a class="navbar-item navbar-logo" href="/"><img src="/images/logo.svg" alt="阿东zza" height="28"></a></div><div class="navbar-menu"><div class="navbar-start"><a class="navbar-item" href="/">首页</a><a class="navbar-item" href="/archives">归档</a><a class="navbar-item" href="/categories">类别</a><a class="navbar-item" href="/tags">标签</a><a class="navbar-item" href="/about">关于我</a></div><div class="navbar-end"><a class="navbar-item is-hidden-tablet catalogue" title="目录" href="javascript:;"><i class="fas fa-list-ul"></i></a><a class="navbar-item search" title="搜索" href="javascript:;"><i class="fas fa-search"></i></a></div></div></div></nav><section class="section"><div class="container"><div class="columns"><div class="column order-2 column-main is-8-tablet is-8-desktop is-8-widescreen"><div class="card"><article class="card-content article" role="article"><div class="article-meta is-size-7 is-uppercase level is-mobile"><div class="level-left"><span class="level-item"><time dateTime="2021-07-13T05:06:08.000Z" title="2021/7/13 13:06:08">2021-07-13</time>发表</span><span class="level-item"><time dateTime="2024-01-17T03:53:31.854Z" title="2024/1/17 11:53:31">2024-01-17</time>更新</span><span class="level-item"><a class="link-muted" href="/categories/DevOps-Record/">DevOps Record</a></span><span class="level-item">6 分钟读完 (大约937个字)</span></div></div><h1 class="title is-3 is-size-4-mobile">linux漏洞修复</h1><div class="content"><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>本内容根据个人经历所记，会解决大部分漏洞内容，但不一定包括全部。</p>
+<span id="more"></span>
+
+<h2 id="软件漏洞"><a href="#软件漏洞" class="headerlink" title="软件漏洞"></a>软件漏洞</h2><p>一般的软件漏洞，比如：<code>Git</code>、<code>Python</code>、<code>PHP</code>、<code>MySQL</code>、<code>Vim</code>、<code>curl</code>等大部分漏洞，基本上都可以通过更新软件就可以解决。</p>
+<p>我云服务上曾经的软件漏洞<code>200+</code>，几个命令全部解决。</p>
+<p>由于本人云服务器系统为 Ubuntu，所以对应的介绍都是Ubuntu的，其他系统的估计也差不太多，只是命令的差异。</p>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">// 查看Ubuntu版本</span><br><span class="line"><span class="meta prompt_">$ </span><span class="language-bash"><span class="built_in">cat</span> /etc/issue</span></span><br><span class="line">Ubuntu 16.04.7 LTS \n \l</span><br><span class="line">// 在更新系统中的包时，建议按顺序执行下面的命令：</span><br><span class="line">// 重新同步包索引文件</span><br><span class="line"><span class="meta prompt_">$ </span><span class="language-bash">apt-get update</span></span><br><span class="line">// 安装系统上当前安装的所有包的最新版本 -y 表示默认 yes</span><br><span class="line"><span class="meta prompt_">$ </span><span class="language-bash">apt-get upgrade -y</span></span><br><span class="line">// 除执行 upgrade 升级功能外，还智能地处理与新版本包的依赖关系的变化</span><br><span class="line"><span class="meta prompt_">$ </span><span class="language-bash">apt-get dist-upgrade -y</span></span><br></pre></td></tr></table></figure>
+
+<p>更新期间，可能会花十分钟左右，取决于系统内的软件的数量和大小。</p>
+<p>常用参数介绍：</p>
+<table>
+<thead>
+<tr>
+<th align="left">参数</th>
+<th align="left">解析</th>
+<th align="left">备注</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">update</td>
+<td align="left">update 命令用于重新同步包索引文件，/etc/apt/sources.list 文件中的配置指定了包索引文件的来源。更新了包索引文件后就可以得到可用的包的更新信息和新的包信息。这样我们本地就有了这样的信息：有哪些软件的哪些版本可以从什么地方(源)安装。</td>
+<td align="left">update 命令应该总是在安装或升级包之前执行。</td>
+</tr>
+<tr>
+<td align="left">upgrade</td>
+<td align="left">upgrade 命令用于从 /etc/apt/sources.list 中列出的源安装系统上当前安装的所有包的最新版本。在任何情况下，当前安装的软件包都不会被删除，尚未安装的软件包也不会被检索和安装。如果当前安装的包的新版本不能在不更改另一个包的安装状态的情况下升级，则将保留当前版本。必须提前执行 update 命令以便 apt-get 知道已安装的包是否有新版本可用。</td>
+<td align="left">注意 update 与 upgrade 的区别：update 是更新软件列表，upgrade 是更新软件。</td>
+</tr>
+<tr>
+<td align="left">dist-upgrade</td>
+<td align="left">除执行升级功能外，dist-upgrade 还智能地处理与新版本包的依赖关系的变化。apt-get 有一个 “智能” 的冲突解决系统，如果有必要，它将尝试升级最重要的包，以牺牲不那么重要的包为代价。</td>
+<td align="left">dist-upgrade 命令可能会删除一些包。</td>
+</tr>
+<tr>
+<td align="left">install</td>
+<td align="left">install 命令用来安装或者升级包。每个包都有一个包名，而不是一个完全限定的文件名(例如，在 Debian 系统中，提供的参数是 apt-utils，而不是 apt-utils_1.6.1_amd64.deb)。被安装的包依赖的包也将被安装。配置文件 /etc/apt/sources.list 中包含了用于获取包的源(服务器)。</td>
+<td align="left">install 命令还可以用来更新指定的包。</td>
+</tr>
+</tbody></table>
+<p>更多参数请了解</p>
+<ul>
+<li><p><a target="_blank" rel="noopener" href="https://linux.die.net/man/8/apt-get">apt-get(8) - Linux man page</a></p>
+</li>
+<li><p><a target="_blank" rel="noopener" href="https://www.cnblogs.com/sparkdev/p/11339231.html">Ubuntu : apt-get 命令</a></p>
+</li>
+</ul>
+<h2 id="系统漏洞"><a href="#系统漏洞" class="headerlink" title="系统漏洞"></a>系统漏洞</h2><p>我更新完全部软件之后，只剩下系统相关的漏洞了，然后把服务器的全部服务先关闭，然后重启(也可以直接重启)。之后对剩下的系统相关的漏洞也进行了验证，奇怪的是，这些漏洞也都相应的修复了！😂</p>
+</div><div class="article-tags is-size-7 mb-4"><span class="mr-2">#</span><a class="link-muted mr-2" rel="tag" href="/tags/Linux/">Linux</a></div><!--!--></article></div><!--!--><nav class="post-navigation mt-4 level is-mobile"><div class="level-start"><a class="article-nav-prev level level-item link-muted" href="/win10-network-icon-bug/"><i class="level-item fas fa-chevron-left"></i><span class="level-item">解决Win10更新后网络图标bug</span></a></div><div class="level-end"><a class="article-nav-next level level-item link-muted" href="/vue-cross-domin-config/"><span class="level-item">vue跨域配置解析</span><i class="level-item fas fa-chevron-right"></i></a></div></nav><!--!--></div><div class="column column-left is-4-tablet is-4-desktop is-4-widescreen  order-1 is-sticky"><div class="card widget" id="toc" data-type="toc"><div class="card-content"><div class="menu"><h3 class="menu-label">目录</h3><ul class="menu-list"><li><a class="level is-mobile" href="#前言"><span class="level-left"><span class="level-item">1</span><span class="level-item">前言</span></span></a></li><li><a class="level is-mobile" href="#软件漏洞"><span class="level-left"><span class="level-item">2</span><span class="level-item">软件漏洞</span></span></a></li><li><a class="level is-mobile" href="#系统漏洞"><span class="level-left"><span class="level-item">3</span><span class="level-item">系统漏洞</span></span></a></li></ul></div></div><style>#toc .menu-list > li > a.is-active + .menu-list { display: block; }#toc .menu-list > li > a + .menu-list { display: none; }</style><script src="/js/toc.js" defer></script></div><div class="card widget" data-type="tags"><div class="card-content"><div class="menu"><h3 class="menu-label">标签</h3><div class="field is-grouped is-grouped-multiline"><div class="control"><a class="tags has-addons" href="/tags/Axios/"><span class="tag">Axios</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/C/"><span class="tag">C</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/C/"><span class="tag">C++</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/CSS/"><span class="tag">CSS</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Cross-domin/"><span class="tag">Cross-domin</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Data-Structure/"><span class="tag">Data Structure</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Docker/"><span class="tag">Docker</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Electron/"><span class="tag">Electron</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Express/"><span class="tag">Express</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/FTP/"><span class="tag">FTP</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Flex/"><span class="tag">Flex</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Generator/"><span class="tag">Generator</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Hexo/"><span class="tag">Hexo</span><span class="tag">4</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Https/"><span class="tag">Https</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/JavaScript/"><span class="tag">JavaScript</span><span class="tag">7</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Linux/"><span class="tag">Linux</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Markdown/"><span class="tag">Markdown</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/NPM/"><span class="tag">NPM</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/NVM/"><span class="tag">NVM</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Network/"><span class="tag">Network</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Node/"><span class="tag">Node</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Others/"><span class="tag">Others</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Path/"><span class="tag">Path</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Promise/"><span class="tag">Promise</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/React/"><span class="tag">React</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/RegExp/"><span class="tag">RegExp</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/SCP/"><span class="tag">SCP</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/SFTP/"><span class="tag">SFTP</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/SSH/"><span class="tag">SSH</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Sublime/"><span class="tag">Sublime</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Svg/"><span class="tag">Svg</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Uni-app/"><span class="tag">Uni-app</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Vue/"><span class="tag">Vue</span><span class="tag">6</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Win10/"><span class="tag">Win10</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/webpack/"><span class="tag">webpack</span><span class="tag">2</span></a></div></div></div></div></div></div><!--!--></div></div></section><footer class="footer"><div class="container"><div class="level"><div class="level-start"><a class="footer-logo is-block mb-2" href="/"><img src="/images/logo.svg" alt="阿东zza" height="28"></a><p class="is-size-7"><span>&copy; 2024 waydez</span>  Powered by <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a> &amp; <a href="https://github.com/ppoffice/hexo-theme-icarus" target="_blank" rel="noopener">Icarus</a></p></div><div class="level-end"></div></div></div></footer><script src="https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/moment@2.22.2/min/moment-with-locales.min.js"></script><script src="https://cdn.jsdelivr.net/npm/clipboard@2.0.4/dist/clipboard.min.js" defer></script><script>moment.locale("zh-cn");</script><script>var IcarusThemeSettings = {
+            article: {
+                highlight: {
+                    clipboard: true,
+                    fold: 'unfolded'
+                }
+            }
+        };</script><script src="/js/column.js"></script><script src="/js/animation.js"></script><a id="back-to-top" title="回到顶端" href="javascript:;"><i class="fas fa-chevron-up"></i></a><script src="/js/back_to_top.js" defer></script><!--!--><!--!--><!--!--><script src="https://cdn.jsdelivr.net/npm/cookieconsent@3.1.1/build/cookieconsent.min.js" defer></script><script>window.addEventListener("load", () => {
+      window.cookieconsent.initialise({
+        type: "info",
+        theme: "edgeless",
+        static: false,
+        position: "bottom-left",
+        content: {
+          message: "此网站使用Cookie来改善您的体验。",
+          dismiss: "知道了！",
+          allow: "允许使用Cookie",
+          deny: "拒绝",
+          link: "了解更多",
+          policy: "Cookie政策",
+          href: "https://www.cookiesandyou.com/",
+        },
+        palette: {
+          popup: {
+            background: "#edeff5",
+            text: "#838391"
+          },
+          button: {
+            background: "#4b81e8"
+          },
+        },
+      });
+    });</script><script src="https://cdn.jsdelivr.net/npm/lightgallery@1.10.0/dist/js/lightgallery.min.js" defer></script><script src="https://cdn.jsdelivr.net/npm/justifiedGallery@3.8.1/dist/js/jquery.justifiedGallery.min.js" defer></script><script>window.addEventListener("load", () => {
+            if (typeof $.fn.lightGallery === 'function') {
+                $('.article').lightGallery({ selector: '.gallery-item' });
+            }
+            if (typeof $.fn.justifiedGallery === 'function') {
+                if ($('.justified-gallery > p > .gallery-item').length) {
+                    $('.justified-gallery > p > .gallery-item').unwrap();
+                }
+                $('.justified-gallery').justifiedGallery();
+            }
+        });</script><!--!--><!--!--><!--!--><!--!--><!--!--><script src="/js/main.js" defer></script><div class="searchbox"><div class="searchbox-container"><div class="searchbox-header"><div class="searchbox-input-container"><input class="searchbox-input" type="text" placeholder="想要查找什么..."></div><a class="searchbox-close" href="javascript:;">×</a></div><div class="searchbox-body"></div></div></div><script src="/js/insight.js" defer></script><script>document.addEventListener('DOMContentLoaded', function () {
+            loadInsight({"contentUrl":"/content.json"}, {"hint":"想要查找什么...","untitled":"(无标题)","posts":"文章","pages":"页面","categories":"分类","tags":"标签"});
+        });</script></body></html>
